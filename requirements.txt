@@ -1,0 +1,9 @@
+groq
+openai
+faiss-cpu
+pypdf2
+langchain
+streamlit
+tiktoken
+python-dotenv
+pandas
